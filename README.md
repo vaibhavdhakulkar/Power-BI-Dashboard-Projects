@@ -55,7 +55,7 @@ Some of the projects in this repository include:
 - Explore the dashboards using slicers and filters
 - Review insights and KPIs
 
-📌 Learning Outcome:
+### 📌 Learning Outcome:
 - By working on these projects, you will learn:
 - How to clean and transform data in Power BI
 - How to create DAX measures and calculated columns
@@ -63,7 +63,7 @@ Some of the projects in this repository include:
 - How to analyze business data visually
 - How to generate actionable insights
 
-🚀 Future Scope:
+### 🚀 Future Scope:
 - Add more real-world business datasets
 - Include SQL-based data sources
 - Publish dashboards to Power BI Service
@@ -82,8 +82,6 @@ If you find this repository useful, please consider supporting me by:
 - 💬 Giving your valuable feedback
 
 🔗 Connect with Me :
-📌 Follow me on LinkedIn:
-https://www.linkedin.com/in/vaibhavdhakulkar25
-
-📌 Subscribe to my YouTube channel:
-https://www.youtube.com/@VaibhavRajAsha
+📌 Email: vaibhavdhakulkar1998@gmail.com<br>
+📌 Follow me on LinkedIn: https://www.linkedin.com/in/vaibhavdhakulkar25<br>
+📌 Subscribe to my YouTube channel: https://www.youtube.com/@VaibhavRajAsha<br>
