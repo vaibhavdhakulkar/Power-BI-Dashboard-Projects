@@ -24,7 +24,7 @@ It helps stakeholders analyze patient trends, age distribution, case categories,
 - These KPIs provide a quick snapshot of hospital performance.
 
 ### 📈 Dashboard Features
-###🔹 Patient Category Analysis
+### 🔹 Patient Category Analysis
 - Adult vs Child distribution (Donut Chart)
 - Percentage contribution of each category
 
