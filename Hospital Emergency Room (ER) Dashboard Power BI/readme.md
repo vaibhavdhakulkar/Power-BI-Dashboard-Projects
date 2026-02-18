@@ -1,6 +1,6 @@
 #  🏥 Hospital Emergency Room Analytics – Power BI Dashboard
 
-##📌 Project Overview
+## 📌 Project Overview
 This Power BI project provides a complete analytical system for monitoring and optimizing Emergency Room (ER) operations.
 The dashboard evaluates patient volume, waiting time efficiency, satisfaction levels, admission status, and department referral patterns to support data-driven decision-making for hospital management.
 
